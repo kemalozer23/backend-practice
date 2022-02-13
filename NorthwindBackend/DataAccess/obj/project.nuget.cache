@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "C9zlL1cJajqQC98orthoqPTBhtp+W3A9yke0LEJrPQYtDhrPaxrOKM2QginuIwpZM57lzjGDSKU+7W5AKCu7LA==",
+  "dgSpecHash": "8b7XoK9fYev2mpra0ucEFwb1+ruGDcG6n5mcPpiyUVOFZPrDmn5vMf5XTnkf75o6OmwR043W4chvbI1fL6DZ5g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Casper\\Desktop\\Yeni klasör\\NorthwindBackend\\DataAccess\\DataAccess.csproj",
+  "projectFilePath": "C:\\Users\\Casper\\Desktop\\BackendPractice\\NorthwindBackend\\DataAccess\\DataAccess.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

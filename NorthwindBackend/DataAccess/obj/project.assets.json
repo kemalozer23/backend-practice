@@ -1,11 +1,30 @@
 {
   "version": 3,
   "targets": {
-    "net6.0": {}
+    "net6.0": {
+      "Core/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/Core.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Core.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "Core/1.0.0": {
+      "type": "project",
+      "path": "../Core/Core.csproj",
+      "msbuildProject": "../Core/Core.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net6.0": []
+    "net6.0": [
+      "Core >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\Casper\\.nuget\\packages\\": {}
@@ -13,11 +32,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Casper\\Desktop\\Yeni klasör\\NorthwindBackend\\DataAccess\\DataAccess.csproj",
+      "projectUniqueName": "C:\\Users\\Casper\\Desktop\\BackendPractice\\NorthwindBackend\\DataAccess\\DataAccess.csproj",
       "projectName": "DataAccess",
-      "projectPath": "C:\\Users\\Casper\\Desktop\\Yeni klasör\\NorthwindBackend\\DataAccess\\DataAccess.csproj",
+      "projectPath": "C:\\Users\\Casper\\Desktop\\BackendPractice\\NorthwindBackend\\DataAccess\\DataAccess.csproj",
       "packagesPath": "C:\\Users\\Casper\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Casper\\Desktop\\Yeni klasör\\NorthwindBackend\\DataAccess\\obj\\",
+      "outputPath": "C:\\Users\\Casper\\Desktop\\BackendPractice\\NorthwindBackend\\DataAccess\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Casper\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -33,7 +52,11 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\Casper\\Desktop\\BackendPractice\\NorthwindBackend\\Core\\Core.csproj": {
+              "projectPath": "C:\\Users\\Casper\\Desktop\\BackendPractice\\NorthwindBackend\\Core\\Core.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

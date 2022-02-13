@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Casper\\Desktop\\Yeni klasör\\NorthwindBackend\\WebAPI\\WebAPI.csproj": {}
+    "C:\\Users\\Casper\\Desktop\\BackendPractice\\NorthwindBackend\\WebAPI\\WebAPI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Casper\\Desktop\\Yeni klasör\\NorthwindBackend\\WebAPI\\WebAPI.csproj": {
+    "C:\\Users\\Casper\\Desktop\\BackendPractice\\NorthwindBackend\\WebAPI\\WebAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Casper\\Desktop\\Yeni klasör\\NorthwindBackend\\WebAPI\\WebAPI.csproj",
+        "projectUniqueName": "C:\\Users\\Casper\\Desktop\\BackendPractice\\NorthwindBackend\\WebAPI\\WebAPI.csproj",
         "projectName": "WebAPI",
-        "projectPath": "C:\\Users\\Casper\\Desktop\\Yeni klasör\\NorthwindBackend\\WebAPI\\WebAPI.csproj",
+        "projectPath": "C:\\Users\\Casper\\Desktop\\BackendPractice\\NorthwindBackend\\WebAPI\\WebAPI.csproj",
         "packagesPath": "C:\\Users\\Casper\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Casper\\Desktop\\Yeni klasör\\NorthwindBackend\\WebAPI\\obj\\",
+        "outputPath": "C:\\Users\\Casper\\Desktop\\BackendPractice\\NorthwindBackend\\WebAPI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Casper\\AppData\\Roaming\\NuGet\\NuGet.Config",

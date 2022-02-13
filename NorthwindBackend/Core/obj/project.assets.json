@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Casper\\Desktop\\Yeni klasör\\NorthwindBackend\\Core\\Core.csproj",
+      "projectUniqueName": "C:\\Users\\Casper\\Desktop\\BackendPractice\\NorthwindBackend\\Core\\Core.csproj",
       "projectName": "Core",
-      "projectPath": "C:\\Users\\Casper\\Desktop\\Yeni klasör\\NorthwindBackend\\Core\\Core.csproj",
+      "projectPath": "C:\\Users\\Casper\\Desktop\\BackendPractice\\NorthwindBackend\\Core\\Core.csproj",
       "packagesPath": "C:\\Users\\Casper\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Casper\\Desktop\\Yeni klasör\\NorthwindBackend\\Core\\obj\\",
+      "outputPath": "C:\\Users\\Casper\\Desktop\\BackendPractice\\NorthwindBackend\\Core\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Casper\\AppData\\Roaming\\NuGet\\NuGet.Config",

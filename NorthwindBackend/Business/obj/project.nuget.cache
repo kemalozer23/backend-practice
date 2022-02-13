@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "cyg4KEvbsETdOq/hmQYQ5NfgLuqT3WCItf18VvpaE+nNk3Nv90gkMvHjK4liYtXTY9c6aHLsPuBnD696CTD8fw==",
+  "dgSpecHash": "YBiiHkkIiBfO40lgQVvnPRU0eixBO/oE0kotRerhmYAtdih2jepQeuF3VyBDQH+rpJhid3Uab2QVnWE1h9aygA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Casper\\Desktop\\Yeni klasör\\NorthwindBackend\\Business\\Business.csproj",
+  "projectFilePath": "C:\\Users\\Casper\\Desktop\\BackendPractice\\NorthwindBackend\\Business\\Business.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

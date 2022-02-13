@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "/XcgzlzlwOf+kojA2e/PYzL4mbdGMrB4JSnx+MuLpr9eI//860JcMoabv1AM7QZTh5kZVySTFT4IanQ7oUyynw==",
+  "dgSpecHash": "zYvdNfeqFkGyQGOk7xC+bOhgVSWvz1bO8/lCHfAZmz28ci+Yu7/fRNMdE+N/hfMroXuXGR5uZPF+pDgQ3nHT3Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Casper\\Desktop\\Yeni klasör\\NorthwindBackend\\Entities\\Entities.csproj",
+  "projectFilePath": "C:\\Users\\Casper\\Desktop\\BackendPractice\\NorthwindBackend\\Entities\\Entities.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

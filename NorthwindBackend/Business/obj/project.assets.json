@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Casper\\Desktop\\Yeni klasör\\NorthwindBackend\\Business\\Business.csproj",
+      "projectUniqueName": "C:\\Users\\Casper\\Desktop\\BackendPractice\\NorthwindBackend\\Business\\Business.csproj",
       "projectName": "Business",
-      "projectPath": "C:\\Users\\Casper\\Desktop\\Yeni klasör\\NorthwindBackend\\Business\\Business.csproj",
+      "projectPath": "C:\\Users\\Casper\\Desktop\\BackendPractice\\NorthwindBackend\\Business\\Business.csproj",
       "packagesPath": "C:\\Users\\Casper\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Casper\\Desktop\\Yeni klasör\\NorthwindBackend\\Business\\obj\\",
+      "outputPath": "C:\\Users\\Casper\\Desktop\\BackendPractice\\NorthwindBackend\\Business\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Casper\\AppData\\Roaming\\NuGet\\NuGet.Config",
