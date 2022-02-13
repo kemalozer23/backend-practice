@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Core.Entities
+namespace DataAccess.Concrete.EntityFramework
 {
-    public interface IEntity
+    internal class EfProductDal
     {
     }
 }
