@@ -8,6 +8,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using Core.Utilities.Results;
+using Business.Constants;
 
 namespace Business.Concrete
 {
@@ -22,34 +23,35 @@ namespace Business.Concrete
         {      
             //Business code
             _productDal.Add(product);
-            return new SuccessResult("Ürün başarıyla eklendi");
+            return new SuccessResult(Messages.ProductAdded);
         }
 
         public IResult Delete(Product product)
         {
             _productDal.Delete(product);
-            return new SuccessResult("Ürün başarıyla silindi");
+            return new SuccessResult(Messages.ProductDeleted);
         }
 
-        public IDataResult<Product> GetById(Product productId)
+        public IDataResult<Product> GetById(int productId)
         {
             return new SuccessDataResult<Product>(_productDal.Get(p => p.ProductId == productId));
         }
 
         public IDataResult<List<Product>> GetList()
         {
-            return new SuccessDataResult<Product>(_productDal.GetList().ToList());
+            return new SuccessDataResult<List<Product>>(_productDal.GetList().ToList());
         }
 
         public IDataResult<List<Product>> GetListByCategory(int categoryId)
         {
-            return new SuccessDataResult<Product>(_productDal.GetList(p => p.CategoryId == categoryId));
+            return new SuccessDataResult<List<Product>>(_productDal.GetList(p => p.CategoryId == categoryId).ToList());
         }
 
         public IResult Update(Product product)
         {
             _productDal.Update(product);
-            return new SuccessResult("Ürün başarıyla güncellendi");
+
+            return new SuccessResult(Messages.ProductUpdated);
         }
     }
 }
