@@ -1,0 +1,5 @@
+C:\Users\Casper\Desktop\BackendPractice\NorthwindBackend\Business\obj\Debug\net6.0\Business.csproj.AssemblyReference.cache
+C:\Users\Casper\Desktop\BackendPractice\NorthwindBackend\Business\obj\Debug\net6.0\Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Casper\Desktop\BackendPractice\NorthwindBackend\Business\obj\Debug\net6.0\Business.AssemblyInfoInputs.cache
+C:\Users\Casper\Desktop\BackendPractice\NorthwindBackend\Business\obj\Debug\net6.0\Business.AssemblyInfo.cs
+C:\Users\Casper\Desktop\BackendPractice\NorthwindBackend\Business\obj\Debug\net6.0\Business.csproj.CoreCompileInputs.cache
