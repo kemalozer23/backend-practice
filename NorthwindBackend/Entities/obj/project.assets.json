@@ -599,6 +599,7 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
         "dependencies": {
+          "Microsoft.EntityFrameworkCore": "6.0.2",
           "Microsoft.EntityFrameworkCore.SqlServer": "6.0.2"
         },
         "compile": {
@@ -1780,7 +1781,8 @@
   },
   "projectFileDependencyGroups": {
     "net6.0": [
-      "Core >= 1.0.0"
+      "Core >= 1.0.0",
+      "Microsoft.EntityFrameworkCore >= 6.0.2"
     ]
   },
   "packageFolders": {
@@ -1825,6 +1827,12 @@
     "frameworks": {
       "net6.0": {
         "targetAlias": "net6.0",
+        "dependencies": {
+          "Microsoft.EntityFrameworkCore": {
+            "target": "Package",
+            "version": "[6.0.2, )"
+          }
+        },
         "imports": [
           "net461",
           "net462",

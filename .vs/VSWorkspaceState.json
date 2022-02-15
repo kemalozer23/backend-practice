@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\NorthwindBackend",
+    "\\NorthwindBackend\\DataAccess",
+    "\\NorthwindBackend\\DataAccess\\Concrete",
+    "\\NorthwindBackend\\DataAccess\\Concrete\\EntityFramework",
+    "\\NorthwindBackend\\DataAccess\\Concrete\\EntityFramework\\Contexts",
+    "\\NorthwindBackend\\WebAPI",
+    "\\NorthwindBackend\\WebAPI\\Controllers"
+  ],
+  "SelectedNode": "\\NorthwindBackend\\WebAPI\\Program.cs",
+  "PreviewInSolutionExplorer": false
+}

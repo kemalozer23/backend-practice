@@ -1,9 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "HnxA7ILZdIM5iyNgNJnJ3YQS2MuON6YdJ2lJYcs3jzykXwui3fs5VbN+LNcZv8jmAp9CFc3xI+kN8WixhKfl1g==",
+  "dgSpecHash": "/xG5swnH9GV6fTBMzwIPtbqm3aJfyfTNNy2zQ0dqIAu+Htx8Moo2XGdiF+z7JlpaSAaLMniwM82h9cwDqPC3rA==",
   "success": true,
   "projectFilePath": "C:\\Users\\Casper\\Desktop\\BackendPractice\\NorthwindBackend\\WebAPI\\WebAPI.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\Casper\\.nuget\\packages\\autofac\\6.3.0\\autofac.6.3.0.nupkg.sha512",
+    "C:\\Users\\Casper\\.nuget\\packages\\autofac.extensions.dependencyinjection\\7.2.0\\autofac.extensions.dependencyinjection.7.2.0.nupkg.sha512",
     "C:\\Users\\Casper\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\Casper\\.nuget\\packages\\microsoft.data.sqlclient\\2.1.4\\microsoft.data.sqlclient.2.1.4.nupkg.sha512",
     "C:\\Users\\Casper\\.nuget\\packages\\microsoft.data.sqlclient.sni.runtime\\2.1.1\\microsoft.data.sqlclient.sni.runtime.2.1.1.nupkg.sha512",
